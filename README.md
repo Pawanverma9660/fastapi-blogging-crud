@@ -28,9 +28,9 @@ Response: {"status": "ok", "data": "Blog Updated Successfully"}
 
 
 **Installation**
-Clone the repository: git clone https://github.com/your-username/blog-api.git
+Clone the repository: git clone https://github.com/Pawanverma9660/blog-api.git
 
-Install the dependencies: pip install -r requirements.txt
+_Install the dependencies_: pip install -r requirements.txt
 
 Run the application: uvicorn main:app --host 0.0.0.0 --port 8000
 
